@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/vscode_workplace/static/js/main.8a6cdc41.js",
+    "index.html": "/vscode_workplace/index.html",
+    "main.8a6cdc41.js.map": "/vscode_workplace/static/js/main.8a6cdc41.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.8a6cdc41.js"
+  ]
+}
